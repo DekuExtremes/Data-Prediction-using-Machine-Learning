@@ -7,4 +7,4 @@ This project demonstrates a **machine learning** model built to predict housing 
 - **Model Training:** Trained a machine learning model using regression algorithms to predict housing prices based on the provided data.
 - **Prediction Output:** Generated predictions for housing prices using the trained model.
 
-This project highlights essential machine learning techniques, from data preprocessing to model evaluation. Explore the [code](main/Data-Prediction-using-Machine-Learning/data_prediction.ipynb) to learn more about the prediction process and try it out with different datasets!
+This project highlights essential machine learning techniques, from data preprocessing to model evaluation. Explore the [code](main/data_prediction.ipynb) to learn more about the prediction process and try it out with different datasets!
